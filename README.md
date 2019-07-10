@@ -1,9 +1,7 @@
 # -
 A program make a TextEditor use ScintillaNET by labVIEW
-# 
-由于使用需要，本项目用labVIEW做了一个Python的文本编辑器，可实现功能如下：
-# 
-1.关键字颜色标记
+# 由于使用需要，本项目用labVIEW做了一个Python的文本编辑器，可实现功能如下：
+# 1.关键字颜色标记
 # 
 2.自动折叠
 # 
